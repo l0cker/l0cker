@@ -7,12 +7,12 @@ Hello World! Meu nome é Gilberto e sou aspirante a programador!
 
 Atualmente trabalho com TI mas na área de help desk, mas ainda continuo na busca de um emprego na área de programação.
 
-Sou apaixonado pela internet, foco atualmente em desenvolvimento Full Stack com Node.js e React.
+Sou apaixonado pela internet, foco atualmente em desenvolvimento web com Node.js e Typescript.
 
 Coding is everything!
 
 💻  Front-end:
-HTML CSS JavaScript React
+HTML CSS JavaScript 
 
 ⚙️  Back-end e banco de dados:
 Node.js  MongoDB  MySql 
